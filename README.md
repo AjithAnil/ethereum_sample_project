@@ -14,7 +14,7 @@ Follow the steps below to download, install, and run this project.
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/AjithAnil/ethereum_sample.git`
+`git clone https://github.com/AjithAnil/ethereum_sample_project.git`
 
 ## Step 2. Install dependencies
 ```
